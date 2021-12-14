@@ -56,4 +56,5 @@ public class MainActivity extends AppCompatActivity {
         print_summa_finish = (TextView) findViewById(R.id.print_summa_finish);
     }
 
+
 }
